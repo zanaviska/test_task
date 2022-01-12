@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.19)
-
-set(files main.cpp)
+ 
+set(files CreateSkin.cpp cutSphereMove.cpp mwArcFunction.cpp mwException.cpp mwIdxRangeException.cpp)
 
 set(CMAKE_LIBRARY_OUTPUT_DIRECTORY ${PROJECT_SOURCE_DIR}/bin)
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${PROJECT_SOURCE_DIR}/bin)

@@ -129,29 +129,125 @@ project/fast:
 	cd /d C:\Users\user\Desktop\proj\my_test\build && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\project.dir\build.make src/CMakeFiles/project.dir/build
 .PHONY : project/fast
 
-main.obj: main.cpp.obj
-.PHONY : main.obj
+CreateSkin.obj: CreateSkin.cpp.obj
+.PHONY : CreateSkin.obj
 
 # target to build an object file
-main.cpp.obj:
-	cd /d C:\Users\user\Desktop\proj\my_test\build && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\project.dir\build.make src/CMakeFiles/project.dir/main.cpp.obj
-.PHONY : main.cpp.obj
+CreateSkin.cpp.obj:
+	cd /d C:\Users\user\Desktop\proj\my_test\build && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\project.dir\build.make src/CMakeFiles/project.dir/CreateSkin.cpp.obj
+.PHONY : CreateSkin.cpp.obj
 
-main.i: main.cpp.i
-.PHONY : main.i
+CreateSkin.i: CreateSkin.cpp.i
+.PHONY : CreateSkin.i
 
 # target to preprocess a source file
-main.cpp.i:
-	cd /d C:\Users\user\Desktop\proj\my_test\build && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\project.dir\build.make src/CMakeFiles/project.dir/main.cpp.i
-.PHONY : main.cpp.i
+CreateSkin.cpp.i:
+	cd /d C:\Users\user\Desktop\proj\my_test\build && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\project.dir\build.make src/CMakeFiles/project.dir/CreateSkin.cpp.i
+.PHONY : CreateSkin.cpp.i
 
-main.s: main.cpp.s
-.PHONY : main.s
+CreateSkin.s: CreateSkin.cpp.s
+.PHONY : CreateSkin.s
 
 # target to generate assembly for a file
-main.cpp.s:
-	cd /d C:\Users\user\Desktop\proj\my_test\build && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\project.dir\build.make src/CMakeFiles/project.dir/main.cpp.s
-.PHONY : main.cpp.s
+CreateSkin.cpp.s:
+	cd /d C:\Users\user\Desktop\proj\my_test\build && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\project.dir\build.make src/CMakeFiles/project.dir/CreateSkin.cpp.s
+.PHONY : CreateSkin.cpp.s
+
+cutSphereMove.obj: cutSphereMove.cpp.obj
+.PHONY : cutSphereMove.obj
+
+# target to build an object file
+cutSphereMove.cpp.obj:
+	cd /d C:\Users\user\Desktop\proj\my_test\build && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\project.dir\build.make src/CMakeFiles/project.dir/cutSphereMove.cpp.obj
+.PHONY : cutSphereMove.cpp.obj
+
+cutSphereMove.i: cutSphereMove.cpp.i
+.PHONY : cutSphereMove.i
+
+# target to preprocess a source file
+cutSphereMove.cpp.i:
+	cd /d C:\Users\user\Desktop\proj\my_test\build && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\project.dir\build.make src/CMakeFiles/project.dir/cutSphereMove.cpp.i
+.PHONY : cutSphereMove.cpp.i
+
+cutSphereMove.s: cutSphereMove.cpp.s
+.PHONY : cutSphereMove.s
+
+# target to generate assembly for a file
+cutSphereMove.cpp.s:
+	cd /d C:\Users\user\Desktop\proj\my_test\build && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\project.dir\build.make src/CMakeFiles/project.dir/cutSphereMove.cpp.s
+.PHONY : cutSphereMove.cpp.s
+
+mwArcFunction.obj: mwArcFunction.cpp.obj
+.PHONY : mwArcFunction.obj
+
+# target to build an object file
+mwArcFunction.cpp.obj:
+	cd /d C:\Users\user\Desktop\proj\my_test\build && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\project.dir\build.make src/CMakeFiles/project.dir/mwArcFunction.cpp.obj
+.PHONY : mwArcFunction.cpp.obj
+
+mwArcFunction.i: mwArcFunction.cpp.i
+.PHONY : mwArcFunction.i
+
+# target to preprocess a source file
+mwArcFunction.cpp.i:
+	cd /d C:\Users\user\Desktop\proj\my_test\build && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\project.dir\build.make src/CMakeFiles/project.dir/mwArcFunction.cpp.i
+.PHONY : mwArcFunction.cpp.i
+
+mwArcFunction.s: mwArcFunction.cpp.s
+.PHONY : mwArcFunction.s
+
+# target to generate assembly for a file
+mwArcFunction.cpp.s:
+	cd /d C:\Users\user\Desktop\proj\my_test\build && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\project.dir\build.make src/CMakeFiles/project.dir/mwArcFunction.cpp.s
+.PHONY : mwArcFunction.cpp.s
+
+mwException.obj: mwException.cpp.obj
+.PHONY : mwException.obj
+
+# target to build an object file
+mwException.cpp.obj:
+	cd /d C:\Users\user\Desktop\proj\my_test\build && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\project.dir\build.make src/CMakeFiles/project.dir/mwException.cpp.obj
+.PHONY : mwException.cpp.obj
+
+mwException.i: mwException.cpp.i
+.PHONY : mwException.i
+
+# target to preprocess a source file
+mwException.cpp.i:
+	cd /d C:\Users\user\Desktop\proj\my_test\build && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\project.dir\build.make src/CMakeFiles/project.dir/mwException.cpp.i
+.PHONY : mwException.cpp.i
+
+mwException.s: mwException.cpp.s
+.PHONY : mwException.s
+
+# target to generate assembly for a file
+mwException.cpp.s:
+	cd /d C:\Users\user\Desktop\proj\my_test\build && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\project.dir\build.make src/CMakeFiles/project.dir/mwException.cpp.s
+.PHONY : mwException.cpp.s
+
+mwIdxRangeException.obj: mwIdxRangeException.cpp.obj
+.PHONY : mwIdxRangeException.obj
+
+# target to build an object file
+mwIdxRangeException.cpp.obj:
+	cd /d C:\Users\user\Desktop\proj\my_test\build && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\project.dir\build.make src/CMakeFiles/project.dir/mwIdxRangeException.cpp.obj
+.PHONY : mwIdxRangeException.cpp.obj
+
+mwIdxRangeException.i: mwIdxRangeException.cpp.i
+.PHONY : mwIdxRangeException.i
+
+# target to preprocess a source file
+mwIdxRangeException.cpp.i:
+	cd /d C:\Users\user\Desktop\proj\my_test\build && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\project.dir\build.make src/CMakeFiles/project.dir/mwIdxRangeException.cpp.i
+.PHONY : mwIdxRangeException.cpp.i
+
+mwIdxRangeException.s: mwIdxRangeException.cpp.s
+.PHONY : mwIdxRangeException.s
+
+# target to generate assembly for a file
+mwIdxRangeException.cpp.s:
+	cd /d C:\Users\user\Desktop\proj\my_test\build && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\project.dir\build.make src/CMakeFiles/project.dir/mwIdxRangeException.cpp.s
+.PHONY : mwIdxRangeException.cpp.s
 
 # Help Target
 help:
@@ -162,9 +258,21 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... project
-	@echo ... main.obj
-	@echo ... main.i
-	@echo ... main.s
+	@echo ... CreateSkin.obj
+	@echo ... CreateSkin.i
+	@echo ... CreateSkin.s
+	@echo ... cutSphereMove.obj
+	@echo ... cutSphereMove.i
+	@echo ... cutSphereMove.s
+	@echo ... mwArcFunction.obj
+	@echo ... mwArcFunction.i
+	@echo ... mwArcFunction.s
+	@echo ... mwException.obj
+	@echo ... mwException.i
+	@echo ... mwException.s
+	@echo ... mwIdxRangeException.obj
+	@echo ... mwIdxRangeException.i
+	@echo ... mwIdxRangeException.s
 .PHONY : help
 
 

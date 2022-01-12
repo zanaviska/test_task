@@ -13,7 +13,7 @@
 #ifndef __mwTPoint3d_hpp__
 #define __mwTPoint3d_hpp__
 
-#include <mwIdxRangeException.hpp>
+#include "mwIdxRangeException.hpp"
 #include <cmath>
 
 #ifdef MW_5AXUTIL_DLL_VERSION
