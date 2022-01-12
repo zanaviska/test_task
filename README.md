@@ -1,2 +1,3 @@
-# defaults
-repo with defaults settings for IDEs and hello-worlds
+# test task repo
+
+this repo contains code for test task assignments
