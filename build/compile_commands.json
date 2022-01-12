@@ -1,7 +1,0 @@
-[
-{
-  "directory": "C:/Users/user/Desktop/proj/my_test/build/src",
-  "command": "D:\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe   -g -std=c++2a -o CMakeFiles\\project.dir\\main.cpp.obj -c C:\\Users\\user\\Desktop\\proj\\my_test\\src\\main.cpp",
-  "file": "C:/Users/user/Desktop/proj/my_test/src/main.cpp"
-}
-]
