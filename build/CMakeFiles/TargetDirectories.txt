@@ -1,5 +1,0 @@
-C:/Users/user/Desktop/proj/my_test/build/CMakeFiles/edit_cache.dir
-C:/Users/user/Desktop/proj/my_test/build/CMakeFiles/rebuild_cache.dir
-C:/Users/user/Desktop/proj/my_test/build/src/CMakeFiles/project.dir
-C:/Users/user/Desktop/proj/my_test/build/src/CMakeFiles/edit_cache.dir
-C:/Users/user/Desktop/proj/my_test/build/src/CMakeFiles/rebuild_cache.dir
