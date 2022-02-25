@@ -8,4 +8,4 @@ set(CMAKE_ARCHIVE_OUTPUT_DIRECTORY ${PROJECT_SOURCE_DIR}/lib)
 
 add_executable(bussines_logic ${files} bussines_logic.cpp)
 add_executable(tcp_client client.cpp)
-add_executable(${PROJECT_NAME} ${files} server.cpp) 
+add_executable(server ${files} server.cpp) 
